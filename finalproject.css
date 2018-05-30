@@ -1,0 +1,87 @@
+/* Madisen Kikut*/
+/*Due May 31st, 2018*/
+/*innovative women final project*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    width:90%;
+    background-color: lightcyan;
+    margin: 15px auto;
+    border: 1px solid black;
+    font-family: ariel, san-serif, helvetica; 
+    color: black
+}
+
+h1 {
+    padding: 10px;
+    text-align:center;
+}
+
+header {
+    border-bottom: 2px solid #ef9c00;
+    text-align:center;
+    background-color:lightcyan;
+    color:black;
+    font-family: ariel, san-serif, helvetica; 
+}
+
+#sidebarA {
+    width:24%;
+    height: 500px;
+    float:left;
+    border-right: 2px solid #ef9c00;
+    text-align:center;
+    font-family: ariel, san-serif, helvetica; 
+    background-color:lightcyan;
+    color:black;
+    float:left; 
+}
+
+h3 {
+text-align:center;
+}
+
+main {
+    width:50%;
+    height:500px;
+    float:left;
+    text-align:center;
+    font-family: ariel, san-serif, helvetica; 
+    background-color:lightcyan;
+    color:black;  
+}
+
+img {
+margin: 10px;
+float:left;
+}
+
+#sidebarB {
+    width:24%;
+    height: 500px;
+    float:right ;
+    border-left: 2px solid #ef9c00;
+    text-align:center;
+    font-family: ariel, san-serif, helvetica; 
+    background-color:lightcyan;
+    color:black;  
+}
+footer {
+    clear:both; 
+    border-top: 2px solid #ef9c00;
+    font-family: ariel, san-serif, helvetica; 
+    background-color:lightcyan;
+    color:black; 
+}
+
+a:link  {
+color:blue;
+color:fuchsia; 
+}
+
+
